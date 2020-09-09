@@ -1,2 +1,2 @@
 # ColCave
-Fall 2020 Prog Workshop Project
+Fall 2020 Programming Workshop Project
